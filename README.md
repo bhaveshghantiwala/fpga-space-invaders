@@ -1,7 +1,7 @@
 # fpga-space-invaders
 Space Invaders Game Designed in Verilog for the Digilent Zybo FPGA Board
 
-## Hardware/Software Used
+## Hardware/Software
 * Digilent Zybo FGPA Board - Zynq-7000 Development Board
 * VGA monitor that support 1024x768 resolution at 85Hz
 * Xilinx Vivado
