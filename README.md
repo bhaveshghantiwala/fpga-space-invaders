@@ -6,14 +6,15 @@ Space Invaders Game Designed in Verilog for the Digilent Zybo FPGA Board
 * VGA monitor that support 1024x768 resolution at 85Hz
 * Xilinx Vivado
 
-## Instructions on How to Play
-I/O pins used
+## I/O Pins
 * SW3 - start switch
 * BTN3 - move left
 * BTN2 - shoot
 * BTN1 - move right
 * BTN0 - continue button
 * VGA out - connected to a monitor
+
+## Instructions on How to Play
 
 1.	Flip the “start switch” into the on position and you should be prompted with a title screen that says “SPACE INVADERS.”
 2.	To get to the next screen press the “continue button.”
